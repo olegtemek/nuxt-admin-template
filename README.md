@@ -12,6 +12,7 @@
   * change <path_to_project>/nuxt.config.ts, like RuntimeConfig api url
   * Frontend: http://localhost:3333/
 <br />
+
 ---
 
 ➡️ [more projects...](https://github.com/olegtemek)
